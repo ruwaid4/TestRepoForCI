@@ -14,3 +14,4 @@ On a terminal at the root of the project directory, the command `mvn test` will 
 test1
 TEST2
 TEST3
+Test4
